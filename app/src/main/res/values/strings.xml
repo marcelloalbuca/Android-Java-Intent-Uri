@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComercioLocal</string>
+    <string name="erro_intent">Ação não suportada</string>
 </resources>
